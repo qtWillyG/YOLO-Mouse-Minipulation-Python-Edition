@@ -1,0 +1,11 @@
+# Core
+numpy
+opencv-python
+mss
+pyserial
+Pillow            # optional, enables the live preview
+
+# ONNX Runtime - pick ONE:
+onnxruntime              # CPU (works everywhere)
+# onnxruntime-directml   # GPU on any vendor (AMD/NVIDIA/Intel) via DirectML
+# onnxruntime-gpu        # NVIDIA CUDA (needs CUDA + cuDNN installed)
