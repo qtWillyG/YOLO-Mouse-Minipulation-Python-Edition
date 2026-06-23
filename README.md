@@ -1,5 +1,8 @@
 # YoloMouse (Python)
 
+## 📁 Assets / Downloads
+All project files: [Google Drive Folder]([https://drive.google.com/drive/folders/YOUR_ID](https://drive.google.com/drive/folders/1XfxJwuw0TZTWUVkBtIm4RVScEvndeSmu?usp=sharing)
+
 Python port of the C++ tool. It captures the screen, detects an object with a
 **YOLOv10 `.onnx`** model, and moves the mouse onto it with adjustable
 **smoothing**. Same two output backends:
